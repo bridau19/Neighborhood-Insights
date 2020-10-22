@@ -61,12 +61,12 @@ a:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 2vw 18vw 12vh 18vw;
+  padding: 2vw 17vw 10vh 17vw;
   line-height: 1.3em;
 }
 
 .mainSection a {
-  margin: 1.5vh;
+  margin: 1vh;
   text-decoration: none;
 }
 
@@ -173,7 +173,7 @@ a:hover {
   transition: 1.2s ease;
 }
 #chemist {
-  background-image: url("images/historical/9doyers2.JPG");
+  background-image: url("images/historical/9doyers2.jpg");
   width: 342px;
   height: 512px;
   background-size: contain;
